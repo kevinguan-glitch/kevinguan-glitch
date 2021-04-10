@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kevinguan-glitch, a molecular biologist, PhD, in training
+- 👋 Hi, I’m @kevinguan-glitch, a PhD molecular biologist in training
 - 👀 I’m interested in machine learning and algorithms, topology, stochastics 
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on computational biology, biophysics, bioengineering, and molecular biology.
+- 🌱 I’m currently learning machine learning and data mining 
+- 💞️ I’m looking to collaborate on bioinformatics, systems biology, computational biology, biophysics, bioengineering, and molecular biology
 - 📫 How to reach me -> here! 
 
 <!---
